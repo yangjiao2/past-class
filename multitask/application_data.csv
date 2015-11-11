@@ -1,0 +1,31 @@
+_id,timestamp,device_id,package_name,application_name,process_importance,process_id,double_end_timestamp,is_system_app
+1,1394059725114.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.android.systemui,System UI,100,799,0.0,1,0
+2,1394059725163.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.sec.android.inputmethod,Samsung keyboard,130,4302,1394061331936.0,1,0
+3,1394059725311.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.android.phone,Phone,100,920,0.0,1,0
+4,1394059725360.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.android.bluetooth,Bluetooth share,200,1417,0.0,1,0
+5,1394059725397.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.google.android.gms,Google Play services,200,13851,1394060975277.0,1,0
+6,1394059725427.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.aware,AWARE,100,9824,1394059735184.0,0,0
+7,1394059725460.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.protogeo.moves,Moves,400,9586,1394060801950.0,0,0
+8,1394059725489.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.samsung.SMT,Samsung text-to-speech engine,300,7844,1394059775914.0,1,0
+9,1394059725527.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.android.settings,Settings,400,6922,1394061315459.0,1,0
+10,1394059725560.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.google.android.gm,Gmail,400,8547,1394059735252.0,1,0
+11,1394059725593.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.sec.android.app.sns3,SNS,400,9862,1394060841585.0,1,0
+12,1394059725630.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.android.vending,Google Play Store,400,9183,1394060906615.0,1,0
+13,1394059725662.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.google.android.gsf.login,Google Account Manager,400,6044,1394069172801.0,1,0
+14,1394059725690.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.sec.android.app.keyguard,com.sec.android.app.keyguard,400,7053,1394060525033.0,1,0
+15,1394059725797.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.cleanmaster.mguard,Clean Master,400,9527,1394059962215.0,0,0
+16,1394059725823.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.sec.spp.push,Samsung Push Service,300,7786,1394060912738.0,1,0
+17,1394059725854.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.joeware.android.gpulumera,CandyCamera,400,9513,1394060897041.0,0,0
+18,1394059725895.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.google.android.apps.plus,Google+,400,8151,1394059740313.0,1,0
+19,1394059725928.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.google.android.talk,Hangouts,400,9481,1394060897068.0,1,0
+20,1394059725977.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.osp.app.signin,Samsung account,400,9463,1394060897087.0,1,0
+21,1394059726021.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.sec.android.gallery3d,Gallery,400,9431,1394060897102.0,1,0
+22,1394059726146.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.sec.android.app.samsungapps,Samsung Updates,130,3275,0.0,1,0
+23,1394059726177.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.sec.smartcard.pinservice,SmartcardManager,400,9446,1394060897124.0,1,0
+24,1394059726215.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.nuance.swype.input,Swype,400,9419,1394060897180.0,1,0
+25,1394059726253.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.samsung.android.app.watchmanagerstub,Gear Manager,400,9406,1394060897204.0,1,0
+26,1394059726287.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.android.contacts,Contacts,400,4392,1394063712536.0,1,0
+27,1394059726324.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.google.android.partnersetup,Google Partner Setup,400,9339,1394060897227.0,1,0
+28,1394059726358.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.samsung.android.providers.context,ContextProvider,100,1513,0.0,1,0
+29,1394059726389.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.sec.pcw.device,Remote Controls,400,9394,1394060867444.0,1,0
+30,1394059726426.0,56dad56a-8b5f-4d38-8035-860e567eca17,,,,com.sec.android.app.FileShareServer,Wi-Fi Direct share,400,9381,1394060867466.0,1,0
